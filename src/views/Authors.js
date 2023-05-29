@@ -15,7 +15,7 @@ const Authors = () => {
         style={styles.index.backgroundImage}
       >
           <View style={styles.Authors.content}>
-          <TouchableOpacity style={styles.Authors.button}  onPress={() => Linking .openURL("https://github.com/S-ospina27")}>
+          <TouchableOpacity style={styles.Authors.button}  onPress={() => Linking .openURL("https://github.com/S-ospina27/pokemonst-react-native")}>
             <Text style={styles.index.buttonText}>
             <Ionicons name="md-logo-github" size={48} color="white" />
             </Text>
